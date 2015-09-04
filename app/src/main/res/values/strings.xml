@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoInstanceState</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_nome">Nome</string>
+    <string name="botao_atualizar">Atualizar</string>
+    <string name="hint_nome">Informe seu nome</string>
+    <string name="label_titulo">Demo Ciclo de Vida</string>
+</resources>
